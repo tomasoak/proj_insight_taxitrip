@@ -1,0 +1,12 @@
+*venv*
+*plugins*
+*logs*
+*txt*
+*workspace*
+*csv*
+*S.json
+*support*
+*__pycache__*
+*tfstate*
+*hcl*
+*.terraform*
